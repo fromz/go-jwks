@@ -3,7 +3,7 @@ package jwks
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/square/go-jose"
+	"gopkg.in/square/go-jose.v2"
 	"log"
 	"net/http"
 )

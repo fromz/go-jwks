@@ -2,7 +2,7 @@ package jwks
 
 import (
 	"fmt"
-	"github.com/square/go-jose"
+	"gopkg.in/square/go-jose.v2"
 	"golang.org/x/sync/semaphore"
 	"log"
 	"time"
